@@ -25,4 +25,4 @@ Toda a árvore de decisão, roteiros de conversação humanizados e gatilhos de 
 ## 📊 Estrutura Visual da Arquitetura do Fluxo
 Abaixo está a árvore lógica com os 11 nós de conversação desenvolvida para o chatbot:
 
-![Estrutura do Funil de Atendimento](./img/fluxo.jpg)
+![Estrutura do Funil de Atendimento](fluxo.png)
